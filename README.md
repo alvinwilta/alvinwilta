@@ -1,5 +1,5 @@
 ### Hi there 👋, Welcome to my Github Page <br>
-<--<img src="https://media.giphy.com/media/We0606kiN2EEnLPNQm/giphy.gif" width="100%" height="100%"/>--!>
+<--<img src="" width="100%" height="100%"/>--!>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alvinwilta&theme=vision-friendly-dark_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinwilta&layout=compact)
