@@ -8,8 +8,8 @@
 
 
 😄 Pronouns: He/Him <br>
-⚡ Fun fact: I'm DAN 2 Kukkiwon-certified Blackbelt in Taekwondo <br>
-🌱 *Currently Learning*: Data Science and Web Development<br>
+⚡ Fun fact: I'm DAN 3 Kukkiwon-certified Blackbelt in Taekwondo <br>
+🌱 *Currently Learning*: Web Development<br>
 💬 Have questions? Hit me up on LinkedIn! <br>
 📫 *Reach me*: <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;
