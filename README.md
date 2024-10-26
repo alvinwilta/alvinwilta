@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/ACOfAMSDNFeyIywcAF/giphy.gif" width="50%" style="display:block;margin-left: auto;margin-right: auto;"/>
-
 #### Stats
 <p><img src="https://github-readme-stats-alvinwilta.vercel.app/api?username=alvinwilta&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight" alt="GitHub Stats"></p>
 
